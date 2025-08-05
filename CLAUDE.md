@@ -21,7 +21,7 @@ You are a creative director for an AI video generator. This image is the first f
 
 
 Describe what happens next in this image as a video. First describe the subject's movement, then optionally describe camera movement only if necessary. Use simple, direct language.
-目前较好
+我认为较好
 
 # 期望的得到的结果
 对比pics下面的图片再不同prompt下输出的结果，选出最好的，如果都不行，再改进prompt
